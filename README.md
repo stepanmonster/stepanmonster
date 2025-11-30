@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>zap: GitHub Stats</summary>
+  <img align = "left" alt = "stepanmonster's GitHub Stats" src = https://github-readme-stats-gamma-olive-70.vercel.app/api?username=stepanmonster&hide=contribs,prs) />
+</details>
