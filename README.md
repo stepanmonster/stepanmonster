@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <details>
   <summary>GitHub Stats</summary>
-  <img align = "left" alt = "stepanmonster's GitHub Stats" src = https://github-readme-stats-gamma-olive-70.vercel.app/api?username=stepanmonster/>
+  <img align = "left" alt = "stepanmonster's GitHub Stats" src = "https://github-readme-stats-gamma-olive-70.vercel.app/api?username=stepanmonster"/>
 </details>
