@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <summary>zap: GitHub Stats</summary>
-  <img align = "left" alt = "stepanmonster's GitHub Stats" src = https://github-readme-stats-gamma-olive-70.vercel.app/api/top-langs/?username=stepanmonster&layout=donut/>
+  <summary>GitHub Stats</summary>
+  <img align = "left" alt = "stepanmonster's GitHub Stats" src = https://github-readme-stats-gamma-olive-70.vercel.app?username=stepanmonster/>
 </details>
